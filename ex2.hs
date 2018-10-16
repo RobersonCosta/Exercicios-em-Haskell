@@ -1,0 +1,1 @@
+teste op n1 n2 = if (op == '*') then (n1*n2) else if (op == '/') then (div n1 n2) else if (op == '-') then (n1-n2) else if (op == '+') then (n1+n2) else (error "Valor invalido")
